@@ -8,13 +8,12 @@ Apriyanto - Fadel - Denny - Muhajir - Mahdiaffan
 Semua penjelasan kurang lebih ada di dalam source code
 
 Urutan instruksi untuk menjalankan gateway (Laptop)
-# urutan instruksi :
-# 1. install bluepy (untuk python3)
-#     a. pip bluepy sudo pip3 install bluepy
-#     b. sudo apt-get install bluez
-# 2. jalankan aplikasi
-#     a. sesuaikan mac address pada Peripheral dengan mac esp32 sensor
-#     b. sesuaikan service uuid dan characteristic uuid
-#     c. sudo hciconfig hci0 up
-#     d. sudo python3 [bleGateway.py]
-#     selesai
+ 1. install bluepy (untuk python3)
+     a. pip bluepy sudo pip3 install bluepy
+     b. sudo apt-get install bluez
+ 2. jalankan aplikasi
+     a. sesuaikan mac address pada Peripheral dengan mac esp32 sensor
+     b. sesuaikan service uuid dan characteristic uuid
+     c. sudo hciconfig hci0 up
+     d. sudo python3 [bleGateway.py]
+     selesai
