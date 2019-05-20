@@ -5,6 +5,8 @@ Data dikirimkan menggunakan thingspeak pada alamat : https://thingspeak.com/chan
 Tugas ini dikerjakan bersama oleh :
 Apriyanto - Fadel - Denny - Muhajir - Mahdiaffan
 
+Dengan arahan bapak Adhitya Bhawiyuga
+
 Semua penjelasan kurang lebih ada di dalam source code
 
 Urutan instruksi untuk menjalankan gateway (Laptop)
