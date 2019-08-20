@@ -2,10 +2,7 @@
 Menggunakan library bluepy dan paho mqtt sebagai gateway dan library BLE ESP32 sebagai node sensor
 Data dikirimkan menggunakan thingspeak pada alamat : https://thingspeak.com/channels/769763
 
-Tugas ini dikerjakan bersama oleh :
-Apriyanto - Fadel - Denny - Muhajir - Mahdiaffan
-
-Dengan arahan bapak Adhitya Bhawiyuga
+Dosen bapak Adhitya Bhawiyuga
 
 Semua penjelasan kurang lebih ada di dalam source code
 
